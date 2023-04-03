@@ -44,7 +44,3 @@ This project can easily be deployed on Vercel. Simply follow the instructions on
 ## Contributing
 
 Feel free to fork the project, make changes, and submit a pull request. Your contributions are always welcome!
-
-## License
-
-[MIT License](https://opensource.org/license/mit/)
