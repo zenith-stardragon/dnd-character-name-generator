@@ -1,0 +1,27 @@
+.name-generator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+/* styles.css */
+html,
+body,
+#__next {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+.name-generator.light {
+  color: #000;
+}
+
+.name-generator.dark {
+  color: #fff;
+}
