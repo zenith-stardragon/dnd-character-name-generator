@@ -29,7 +29,7 @@ A simple, clean, and minimalist Dungeons & Dragons character name generator web 
 
 3. Install the dependencies:
 
-``npm install``
+``npm install @mui/material @emotion/react @emotion/styled``
 
 4. To run the project locally:
 
